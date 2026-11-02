@@ -23,10 +23,11 @@ button {
 }
 
 main {
-	height: 90vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    gap: 20px;
 }
 
 .loadMore {
@@ -35,6 +36,7 @@ main {
 	border: none;
 	padding: 10px;
 	width: 13%;
+	margin: auto;
 }
 
 h1 {
